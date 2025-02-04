@@ -1,0 +1,22 @@
+# Unity Specific
+Library/
+Logs/
+Temp/
+obj/
+*.csproj
+*.sln
+UserSettings/
+mono_crash*.json
+
+# Packages
+Packages/*
+!Packages/manifest.json
+
+# Builds
+Builds/
+
+# Cache
+*.tmp
+*.bak
+*.swp
+.DS_Store
